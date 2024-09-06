@@ -1,0 +1,77 @@
+# Arquivos e diretórios específicos do .NET
+bin/
+obj/
+.vs/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.dbmdl
+*.bak
+*.sql
+*.suo
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Configurações de usuário do Visual Studio
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos de configuração do Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+
+# Configurações de build do Visual Studio
+*.ncb
+*.suo
+*.sdf
+*.opensdf
+
+# Diretórios e arquivos de pacotes NuGet
+*.nupkg
+*.snupkg
+*.nuget/
+
+# Diretórios de cache
+/.vs/
+/.vscode/
+
+# Diretórios e arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Arquivos de configuração de desenvolvimento
+launchSettings.json
+
+# Diretórios e arquivos de cache de dependências
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Diretórios e arquivos específicos do Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Arquivos e diretórios específicos do Azure
+*.azure
+*.publishsettings
+
+# Diretórios e arquivos específicos do Visual Studio Code
+.settings/
+.history/
+*.code-workspace
+
+# Outras configurações específicas
+*.swp
+*.swo
+*.DS_Store
+*.directory
+*.sublime-workspace
+*.sublime-project
